@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi There👋</h1>
 
-###
-
 <br clear="both">
 
 <p align="left">I'm Rasika from India.<br><br>- 🔭 I’m working as java full stack developer.<br>- 📚 I'm currently learning java technology.<br>- ⚡ I have experience of cofounder for 1 year.</p>
@@ -11,14 +9,17 @@
 ###
 
 <br clear="both">
+<hr>
 
 <p align="left">👩‍💻  About Me <br><br>I am a dedicated and enthusiastic technology professional with a specialization in Java full-stack development. I possess a strong passion for conceptualizing, designing, and developing robust applications using Java technologies, aiming to contribute to innovative and impactful software solutions."</p>
 
 ###
 
 <br clear="both">
+<hr>
 
 <h3 align="left">🛠 Language and tools</h3>
+
 
 ###
 
