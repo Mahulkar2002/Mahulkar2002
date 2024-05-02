@@ -46,8 +46,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahulkar2002.Mahulkar2002&right_color=blueviolet"  />
 </div>
@@ -59,8 +57,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahulkar2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="151" alt="stats graph"  />
